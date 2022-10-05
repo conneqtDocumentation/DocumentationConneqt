@@ -1,0 +1,2 @@
+# Process queue
+When activating a trigger for all assets inside a filter with many assets, they cannot all be processed at the same time. Thus, they are moved to the queue. The process queue gives an overview of which processes have been planned, when they had been planned, their input data, when they started their execution and when they finished processing. 
